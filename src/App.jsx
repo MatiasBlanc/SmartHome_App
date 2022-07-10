@@ -24,7 +24,7 @@ export default function App() {
 						<ControlCards name='Lights' icon={Light} />
 						<ControlCards name='Cleaning' icon={Trash} />
 						<ControlCards name='Music' icon={Music}/>
-						<ControlCards name='Motion Sensor' icon={Eye}/>
+						<ControlCards name='Motion sensor' icon={Eye}/>
 					</div>
 				</div>
 			</div>
